@@ -1,0 +1,7 @@
+{
+  "name": "OneShot AI Therapist",
+  "description": "A next-generation, real-time emotional wellness assistant that uses multi-modal analysis (audio, text) to provide personalized therapeutic interventions in a calm, elegant, and safe virtual environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
